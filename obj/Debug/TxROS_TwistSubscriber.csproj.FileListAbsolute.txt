@@ -1,0 +1,10 @@
+P:\Program Files\Tecnomatix_2402\eMPower\DotNetCommands\TxROS\TxROS_Playground.dll.config
+P:\Program Files\Tecnomatix_2402\eMPower\DotNetCommands\TxROS\TxROS_Playground.dll
+P:\Program Files\Tecnomatix_2402\eMPower\DotNetCommands\TxROS\TxROS_Playground.pdb
+F:\Study\4th year\Grad. Project\Process Simulate\Course - Process Simulate Quick start\TxROS_Playground\obj\Debug\TxROS_TwistSubscriber.csproj.AssemblyReference.cache
+F:\Study\4th year\Grad. Project\Process Simulate\Course - Process Simulate Quick start\TxROS_Playground\obj\Debug\TxROS_Playground.TxUi.TxSubscriberPublisherForm.resources
+F:\Study\4th year\Grad. Project\Process Simulate\Course - Process Simulate Quick start\TxROS_Playground\obj\Debug\TxROS_TwistSubscriber.csproj.GenerateResource.cache
+F:\Study\4th year\Grad. Project\Process Simulate\Course - Process Simulate Quick start\TxROS_Playground\obj\Debug\TxROS_TwistSubscriber.csproj.CoreCompileInputs.cache
+F:\Study\4th year\Grad. Project\Process Simulate\Course - Process Simulate Quick start\TxROS_Playground\obj\Debug\TxROS_Tw.6396B8DB.Up2Date
+F:\Study\4th year\Grad. Project\Process Simulate\Course - Process Simulate Quick start\TxROS_Playground\obj\Debug\TxROS_Playground.dll
+F:\Study\4th year\Grad. Project\Process Simulate\Course - Process Simulate Quick start\TxROS_Playground\obj\Debug\TxROS_Playground.pdb

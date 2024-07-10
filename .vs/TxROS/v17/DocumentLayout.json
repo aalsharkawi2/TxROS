@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_TwistSubscriber.csproj|f:\\study\\4th year\\grad. project\\process simulate\\teconmatix .net api\\txros_playground\\txui\\txsubsciberpublisher\\txsubscriberpublisherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_TwistSubscriber.csproj|solutionrelative:txui\\txsubsciberpublisher\\txsubscriberpublisherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_TwistSubscriber.csproj|F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\txamr\\txamr_mecanumdrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_TwistSubscriber.csproj|solutionrelative:txamr\\txamr_mecanumdrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\txamr\\txamr_mecanumdrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|solutionrelative:txamr\\txamr_mecanumdrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_TwistSubscriber.csproj|F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\txui\\txsubsciberpublisher\\txsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_TwistSubscriber.csproj|solutionrelative:txui\\txsubsciberpublisher\\txsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\txui\\txsubsciberpublisher\\txtwistsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|solutionrelative:txui\\txsubsciberpublisher\\txtwistsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\txros\\communication\\txsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|solutionrelative:txros\\communication\\txsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\txamr\\txamr_drivingjointsutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|solutionrelative:txamr\\txamr_drivingjointsutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\txui\\txsubsciberpublisher\\txsubscriberpublisherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C734F64-C57C-4C42-9A94-424A4DB0FE49}|TxROS_Playground.csproj|solutionrelative:txui\\txsubsciberpublisher\\txsubscriberpublisherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\AppData\\Local\\Temp\\.vsdbgsrc\\f2851e7f6b1db9c982bb7c187949d9cfde8597c2e48f2d795f50a44dc394baff\\TxRose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "txSubscriber.cs",
+              "DocumentMoniker": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\txSubscriber.cs",
+              "RelativeDocumentMoniker": "TxUi\\TxSubsciberPublisher\\txSubscriber.cs",
+              "ToolTip": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\txSubscriber.cs",
+              "RelativeToolTip": "TxUi\\TxSubsciberPublisher\\txSubscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:13:41.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TxAMR_MecanumDrive.cs",
+              "DocumentMoniker": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxAMR\\TxAMR_MecanumDrive.cs",
+              "RelativeDocumentMoniker": "TxAMR\\TxAMR_MecanumDrive.cs",
+              "ToolTip": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxAMR\\TxAMR_MecanumDrive.cs",
+              "RelativeToolTip": "TxAMR\\TxAMR_MecanumDrive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:13:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TxAMR_MecanumDrive.cs",
+              "DocumentMoniker": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxAMR\\TxAMR_MecanumDrive.cs",
+              "RelativeDocumentMoniker": "TxAMR\\TxAMR_MecanumDrive.cs",
+              "ToolTip": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxAMR\\TxAMR_MecanumDrive.cs",
+              "RelativeToolTip": "TxAMR\\TxAMR_MecanumDrive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:54:34.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TxTwistSubscriber.cs",
+              "DocumentMoniker": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\TxTwistSubscriber.cs",
+              "RelativeDocumentMoniker": "TxUi\\TxSubsciberPublisher\\TxTwistSubscriber.cs",
+              "ToolTip": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\TxTwistSubscriber.cs",
+              "RelativeToolTip": "TxUi\\TxSubsciberPublisher\\TxTwistSubscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:22:32.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TxSubscriberPublisherForm.cs",
+              "DocumentMoniker": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\TxSubscriberPublisherForm.cs",
+              "RelativeDocumentMoniker": "TxUi\\TxSubsciberPublisher\\TxSubscriberPublisherForm.cs",
+              "ToolTip": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\TxSubscriberPublisherForm.cs",
+              "RelativeToolTip": "TxUi\\TxSubsciberPublisher\\TxSubscriberPublisherForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:22:52.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TxAMR_DrivingJointsUtilities.cs",
+              "DocumentMoniker": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxAMR\\TxAMR_DrivingJointsUtilities.cs",
+              "RelativeDocumentMoniker": "TxAMR\\TxAMR_DrivingJointsUtilities.cs",
+              "ToolTip": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxAMR\\TxAMR_DrivingJointsUtilities.cs",
+              "RelativeToolTip": "TxAMR\\TxAMR_DrivingJointsUtilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:27:46.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TxSubscriberPublisherForm.cs [Design]",
+              "DocumentMoniker": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\TxSubscriberPublisherForm.cs",
+              "RelativeDocumentMoniker": "TxUi\\TxSubsciberPublisher\\TxSubscriberPublisherForm.cs",
+              "ToolTip": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Course - Process Simulate Quick start\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\TxSubscriberPublisherForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Course - Process Simulate Quick start\\TxROS_Playground\\TxUi\\TxSubsciberPublisher\\TxSubscriberPublisherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:22:49.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TxSubscriber.cs",
+              "DocumentMoniker": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxROS\\Communication\\TxSubscriber.cs",
+              "RelativeDocumentMoniker": "TxROS\\Communication\\TxSubscriber.cs",
+              "ToolTip": "F:\\Study\\4th year\\Grad. Project\\Process Simulate\\Teconmatix .NET API\\TxROS_Playground\\TxROS\\Communication\\TxSubscriber.cs",
+              "RelativeToolTip": "TxROS\\Communication\\TxSubscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:08:27.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TxRose.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\AppData\\Local\\Temp\\.vsdbgsrc\\f2851e7f6b1db9c982bb7c187949d9cfde8597c2e48f2d795f50a44dc394baff\\TxRose.cs",
+              "ToolTip": "C:\\Users\\ahmed\\AppData\\Local\\Temp\\.vsdbgsrc\\f2851e7f6b1db9c982bb7c187949d9cfde8597c2e48f2d795f50a44dc394baff\\TxRose.cs",
+              "ViewState": "AQIAAHAVAAAAAAAAAEBVwJcVAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:18:40.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
