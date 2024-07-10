@@ -159,7 +159,7 @@ Due to project timeline constraints, exploration of these alternatives was defer
 The implementation of an advanced AMR simulation in Tecnomatix Process Simulate revealed both the software's strengths in automation integration and its limitations in handling high-frequency robot commands. While the project achieved its primary goals of simulating complex robot kinematics and ROS integration, it also highlighted the importance of carefully selecting simulation tools based on specific project requirements.
 
 The experience gained from this implementation provides valuable insights for future projects, emphasizing the need for a balance between comprehensive features and real-time performance in simulation software selection. As the field of warehouse automation and AMR technology continues to evolve, the lessons learned from this project will inform better decision-making in choosing simulation environments for complex, dynamic systems.
-# **References**
+## **References**
 opensource.siemens.com. (n.d.). *github - siemens / ros-sharp*. Retrieved from https://github.com/siemens/ros-sharp
 
 opensource.siemens.com. (n.d.). *siemens - ros-sharp - unity plugin*. Retrieved from https://github.com/siemens/ros-sharp/tree/master/com.siemens.ros-sharp
