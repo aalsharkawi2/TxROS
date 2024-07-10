@@ -26,12 +26,9 @@ Process Simulate offers a range of components that are crucial for developing an
 - **RGBD Camera (Siemens Industry Software Inc., n.d.)**: This sensor provides both color (RGB) and depth (D) information, essential for visual perception tasks like object detection, tracking, and navigation.
 - **LiDAR Sensor (Siemens Industry Software Inc., n.d.)**: LiDAR is critical for precise distance measurement and 3D mapping, enabling the robot to understand and navigate its environment accurately.
 
-<table><tr><th colspan="1">![](./img/Aspose.Words.ebe7b94c-9121-4b84-ad25-35c37b757f47.003.png)</th><th colspan="1" rowspan="2">![](./img/Aspose.Words.ebe7b94c-9121-4b84-ad25-35c37b757f47.004.png)</th></tr>
-<tr><td colspan="1">![A screen shot of a camera settings
-
-Description automatically generated](./img/Aspose.Words.ebe7b94c-9121-4b84-ad25-35c37b757f47.005.png)</td></tr>
-<tr><td colspan="1" valign="bottom"><b>Figure 3: LiDAR and Camera in PS</b></td><td colspan="1" valign="bottom"><b>Figure 4: LiDAR Dialog in PS</b></td></tr>
-</table>
+|![](./img/Aspose.Words.ebe7b94c-9121-4b84-ad25-35c37b757f47.003.png)|![](./img/Aspose.Words.ebe7b94c-9121-4b84-ad25-35c37b757f47.004.png)|
+| :-: | :-: |
+|**Figure 3: LiDAR and Camera in PS**|**Figure 4: LiDAR Dialog in PS**|
 
 These sensors can send data to the ROS environment, where various autonomy algorithms can process the information to perform tasks such as obstacle avoidance, path planning, and environment mapping.
 
